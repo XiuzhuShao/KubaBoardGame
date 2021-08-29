@@ -30,6 +30,6 @@ print(game.get_marble((5, 5)))  # prints 'W'
 print(game.get_current_turn()) # prints 'PlayerB' because PlayerA is the last player to play.
 ```
 
-![](https://lh5.googleusercontent.com/NNPE-rIlVD7cl2AZufgpBZTWzVqjMGutY0IHrvCgxum3Mo8ugYD46C7MAf1mDYAO3wvUtWBCcOXQEaYtspEjcDx-aLsENlxKxemfELJVxtl6gzgT=w1280)
+![](1512FbO7m6Hsc2PEs3PiaS6PAdeWFELcM.jpg)
   
   [image source](https://sites.google.com/site/boardandpieces/list-of-games/kuba)
